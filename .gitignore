@@ -11,4 +11,5 @@ cmake-build-debug/
 *.txt
 *.zip
 
+example/
 tests/test
